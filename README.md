@@ -4,6 +4,8 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 
 Most of the commits in this repository correspond to videos in the program.
 
+[Demo](https://gudeteira.github.io/reactnd-chirper-app/) 
+
 ## Project Setup
 
 * clone the Project - `git@github.com:gudeteira/reactnd-chirper-app.git`
