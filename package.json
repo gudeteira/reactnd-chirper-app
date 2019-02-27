@@ -6,7 +6,9 @@
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-icons": "^3.4.0",
     "react-redux": "^5.0.7",
+    "react-redux-loading": "^1.0.1",
     "react-scripts": "1.1.1",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0"
