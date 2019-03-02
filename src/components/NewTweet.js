@@ -19,7 +19,6 @@ class NewTweet extends Component {
     const {text} = this.state
     const {dispatch, id} = this.props
 
-    debugger
     dispatch(handleAddTweet(text, id))
 
     this.setState(() => ({
